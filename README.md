@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Mendoza</h1>
-<h3 align="center">A passionate software engineer coding solutions</h3>
+<h3 align="center">A passionate software engineer </h3>
 
 <a href="https://www.codewars.com/users/JesusDoza/stats"><img src="https://www.codewars.com/users/JesusDoza/badges/large" alt="codewars-coding-challenges"></a>
 
