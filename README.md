@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesus Mendoza</h1>
 <h3 align="center">A passionate software engineer coding solutions</h3>
 
+<a href="https://www.codewars.com/users/JesusDoza/stats"><img src="https://www.codewars.com/users/JesusDoza/badges/large" alt="codewars-coding-challenges"></a>
+
 - 📫 How to reach me **jesus.doza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
