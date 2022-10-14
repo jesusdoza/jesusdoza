@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Mendoza</h1>
 <h3 align="center">A patient and always learning software engineer with a how can I make this easier with code mentality </h3>
 
-<a href="https://www.codewars.com/users/JesusDoza/stats"><img src="https://www.codewars.com/users/JesusDoza/badges/large" alt="codewars-coding-challenges"></a>
+
 
 - 📫 How to reach me **jesus.doza@gmail.com**
 
